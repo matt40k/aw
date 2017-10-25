@@ -1,0 +1,154 @@
+{
+  "name": "aw",
+  "title": "aw",
+  "id": "c37c1be5-a55e-4607-8a77-b743cb873c97",
+  "description": "aw",
+  "homepage": "https://github.com/matt40k/aw",
+  "version": "0.1.0",
+  "profile": "data-package",
+  "created": "2017-10-25T23:06:14.412+01:00",
+  "licenses": [
+    {
+      "name": "ODC-BY-1.0",
+      "path": "https://opendatacommons.org/licenses/by/1-0/",
+      "title": "Open Data Commons Attribution License"
+    }
+  ],
+  "sources": [
+    {
+      "path": "https://raw.githubusercontent.com/matt40k/aw/d9462efa64ef2a9393d42340cc00b440840f028c/export.csv",
+      "title": "Wed Oct 25 20:28:02 2017 +0100"
+    },
+    {
+      "path": "https://raw.githubusercontent.com/matt40k/aw/f67a191c31298834a58cdcae66f98ba37e7e3ef5/export.csv",
+      "title": "Wed Oct 25 16:23:31 2017 +0100"
+    },
+    {
+      "path": "https://raw.githubusercontent.com/matt40k/aw/0c0a12d37b26c77bbccffaa6d44b823d005ee08b/export.csv",
+      "title": "Wed Oct 25 12:36:04 2017 +0100"
+    },
+    {
+      "path": "https://raw.githubusercontent.com/matt40k/aw/bc5dc06521604987ffd4127e92dcde9573f481c1/export.csv",
+      "title": "Wed Oct 25 08:30:48 2017 +0100"
+    },
+    {
+      "path": "https://raw.githubusercontent.com/matt40k/aw/8d299317692f8cf2bc6f1cf8709813abc3f4609c/export.csv",
+      "title": "Wed Oct 25 04:27:57 2017 +0100"
+    },
+    {
+      "path": "https://raw.githubusercontent.com/matt40k/aw/7dfa4ae6d41e461f1f70c3990272d75164784c5d/export.csv",
+      "title": "Wed Oct 25 00:23:15 2017 +0100"
+    },
+    {
+      "path": "https://raw.githubusercontent.com/matt40k/aw/c66e0e87b12913601cc74e0d7acfa6ea2dafb332/export.csv",
+      "title": "Tue Oct 24 20:26:08 2017 +0100"
+    },
+    {
+      "path": "https://raw.githubusercontent.com/matt40k/aw/a6a233ad5647b6959dae4a6a4796d88c2ab484f0/export.csv",
+      "title": "Tue Oct 24 16:23:43 2017 +0100"
+    },
+    {
+      "path": "https://raw.githubusercontent.com/matt40k/aw/29a87dad9e4b3a59fac3bb4bc80b7345ddfc354e/export.csv",
+      "title": "Tue Oct 24 12:25:21 2017 +0100"
+    },
+    {
+      "path": "https://raw.githubusercontent.com/matt40k/aw/c8ba5711071567b193545cbdfd76b5b12abf5fa8/export.csv",
+      "title": "Tue Oct 24 08:19:40 2017 +0100"
+    },
+    {
+      "path": "https://raw.githubusercontent.com/matt40k/aw/b7fb6d748e6328b9f08b5960c602e331434be002/export.csv",
+      "title": "Tue Oct 24 04:23:21 2017 +0100"
+    },
+    {
+      "path": "https://raw.githubusercontent.com/matt40k/aw/52e6359864c57f58b4ffa4afd829d2760d9a1bc9/export.csv",
+      "title": "Tue Oct 24 00:30:08 2017 +0100"
+    },
+    {
+      "path": "https://raw.githubusercontent.com/matt40k/aw/a9f195591411ba989397888476ff280c399d3c30/export.csv",
+      "title": "Mon Oct 23 22:09:26 2017 +0100"
+    },
+    {
+      "path": "https://raw.githubusercontent.com/matt40k/aw/74a188013404d4b3914d1322ae8a92e286c6a788/export.csv",
+      "title": "Mon Oct 23 12:23:28 2017 +0100"
+    },
+    {
+      "path": "https://raw.githubusercontent.com/matt40k/aw/32236526fd3ee9c2f43bf9aaf44aaba7f072d378/export.csv",
+      "title": "Mon Oct 23 08:22:11 2017 +0100"
+    },
+    {
+      "path": "https://raw.githubusercontent.com/matt40k/aw/7e74b9282a8282c4eab5c21e92c2c8aee05476eb/export.csv",
+      "title": "Mon Oct 23 04:25:13 2017 +0100"
+    },
+    {
+      "path": "https://raw.githubusercontent.com/matt40k/aw/cc041cb64b6001cdbf896c533beb52029c0fd07e/export.csv",
+      "title": "Sun Oct 22 16:25:56 2017 +0100"
+    },
+    {
+      "path": "https://raw.githubusercontent.com/matt40k/aw/1e63d95024ce6354953949bfefbca061af4ffdc5/export.csv",
+      "title": "Sun Oct 22 08:26:08 2017 +0100"
+    },
+    {
+      "path": "https://raw.githubusercontent.com/matt40k/aw/f5298372c67e254e24b9997fa6c90bddb26e2ea5/export.csv",
+      "title": "Sun Oct 22 04:23:03 2017 +0100"
+    },
+    {
+      "path": "https://raw.githubusercontent.com/matt40k/aw/2f82cdcdd7be2ccf93eb1baa545378f958e8ed38/export.csv",
+      "title": "Sat Oct 21 20:22:00 2017 +0100"
+    },
+    {
+      "path": "https://raw.githubusercontent.com/matt40k/aw/0e3ff8db65e58953edd54297641fbfa972280ce5/export.csv",
+      "title": "Sat Oct 21 16:22:57 2017 +0100"
+    },
+    {
+      "path": "https://raw.githubusercontent.com/matt40k/aw/ee4af8cfb4d6b661330b36dff98e3e25a8dcb955/export.csv",
+      "title": "Sat Oct 21 15:40:13 2017 +0100"
+    },
+    {
+      "path": "https://raw.githubusercontent.com/matt40k/aw/92b9b0ed4538e87f69664a5c92bae5ca87e44573/export.csv",
+      "title": "Sat Oct 21 08:24:06 2017 +0100"
+    },
+    {
+      "path": "https://raw.githubusercontent.com/matt40k/aw/bae2d457280eb6b15c09d13b64f5487350fd29eb/export.csv",
+      "title": "Sat Oct 21 04:24:43 2017 +0100"
+    },
+    {
+      "path": "https://raw.githubusercontent.com/matt40k/aw/0c8ba70e68a0e9454365f379a595a87b1f91f448/export.csv",
+      "title": "Sat Oct 21 00:23:40 2017 +0100"
+    },
+    {
+      "path": "https://raw.githubusercontent.com/matt40k/aw/70cf5ad80ff993025dd90c2a7c1f4db60a4172f5/export.csv",
+      "title": "Fri Oct 20 22:40:27 2017 +0100"
+    },
+    {
+      "path": "https://raw.githubusercontent.com/matt40k/aw/3b89712faaeea9d3bfbe86fbaa49081727428e17/export.csv",
+      "title": "Fri Oct 20 22:24:18 2017 +0100"
+    },
+    {
+      "path": "https://raw.githubusercontent.com/matt40k/aw/bfba6d4bf0d334d32a6a5fd7c03f268893078904/export.csv",
+      "title": "Thu Oct 19 21:35:54 2017 +0100"
+    },
+    {
+      "path": "https://raw.githubusercontent.com/matt40k/aw/e7b590367f0b16c409469f8aa44c34c1c1dc81fc/export.csv",
+      "title": "Thu Oct 19 19:49:24 2017 +0000"
+    },
+    {
+      "path": "https://raw.githubusercontent.com/matt40k/aw/4b493b960726bb8441e155b3d502e4d95c04c232/export.csv",
+      "title": "Thu Oct 19 18:45:50 2017 +0000"
+    }
+  ],
+  "contributors": [
+    {
+      "path": "https://matt40k.uk",
+      "title": "Matt Smith",
+      "email": "matt@matt40k.uk",
+      "role": "wrangler"
+    },
+    {
+      "path": "aw",
+      "title": "aw",
+      "email": "aw",
+      "role": "publisher",
+      "organization": "aw"
+    }
+  ]
+}
