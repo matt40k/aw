@@ -1,12 +1,12 @@
 {
   "name": "aw",
   "title": "aw",
-  "id": "c37c1be5-a55e-4607-8a77-b743cb873c97",
+  "id": "2d8ca7b7-7aa3-4b0e-adb1-e036314bab51",
   "description": "aw",
   "homepage": "https://github.com/matt40k/aw",
   "version": "0.1.0",
   "profile": "data-package",
-  "created": "2017-10-25T23:06:14.412+01:00",
+  "created": "2017-10-26T00:24:23.093+01:00",
   "licenses": [
     {
       "name": "ODC-BY-1.0",
@@ -15,6 +15,10 @@
     }
   ],
   "sources": [
+    {
+      "path": "https://raw.githubusercontent.com/matt40k/aw/e51c7e4f588e272d27519bcdf850c9bd312eb395/export.csv",
+      "title": "Thu Oct 26 00:24:21 2017 +0100"
+    },
     {
       "path": "https://raw.githubusercontent.com/matt40k/aw/d9462efa64ef2a9393d42340cc00b440840f028c/export.csv",
       "title": "Wed Oct 25 20:28:02 2017 +0100"
