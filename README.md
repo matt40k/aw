@@ -1,5 +1,5 @@
 # AdultWork.com UK Profile data dump
-[![License: Open Data Commons Attribution](https://img.shields.io/badge/License-ODC_BY-brightgreen.svg)](https://opendatacommons.org/licenses/by/)
+[![License: Open Data Commons Attribution](https://img.shields.io/badge/License-ODC_BY-brightgreen.svg)](https://opendatacommons.org/licenses/by/) [![CSV Validation](https://csvlint.io/validation/59f23a8f91006e0004000018.svg)](https://csvlint.io/validation/59f23a8f91006e0004000018)
 
 Data is extracted from AdultWork.com via the [Developer API](https://developers.adultwork.com/en-GB/Site/API/Reference). The extracted data is then exported to CSV and committed to this Git repo. The Extraction is done on a "best endeavors" bases. The extract is scheduled to occur every 5 hours. Previous versions can be accessed via the Git history, previous versions are listed in the datapackage.json. Only UK profiles are extracted. Profiles are only for people who are providing services.
 
