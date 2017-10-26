@@ -1,5 +1,7 @@
-# AdultWork.com Profile data dump
+# AdultWork.com UK Profile data dump
 [![License: Open Data Commons Attribution](https://img.shields.io/badge/License-ODC_BY-brightgreen.svg)](https://opendatacommons.org/licenses/by/)
+
+Data is extracted from AdultWork.com via the [Developer API](https://developers.adultwork.com/en-GB/Site/API/Reference). The extracted data is then exported to CSV and committed to this Git repo. The Extraction is done on a "best endeavors" bases. The extract is scheduled to occur every 5 hours. Previous versions can be accessed via the Git history, previous versions are listed in the datapackage.json. Only UK profiles are extracted. Profiles are only for people who are providing services.
 
 # About AdultWork.com
 AdultWork.com is an online directory of adult service providers and a virtual meeting place for those offering and seeking such services.
@@ -12,10 +14,7 @@ Members who are seeking services also create accounts and can leave ratings of a
 
 All online purchases are made in AdultWork.com credits. Various methods of purchasing credits are available: including credit card payments, bank transfers and exchange of prepaid vouchers.
 
-AdultWork.com does not accept payment for any escort-related activity and anyone found to be misusing the payment mechanisms to do so will have their membership terminated permanently. 
-
-# About the extract
-Data is extracted from AdultWork.com via the [Developer API](https://developers.adultwork.com/en-GB/Site/API/Reference). The extracted data is then exported to CSV and committed to this Git repo. The Extraction is done on a "best endeavors" bases. The extract is scheduled to occur every 5 hours. Previous versions can be accessed via the Git history, previous versions are listed in the datapackage.json.
+AdultWork.com does not accept payment for any escort-related activity and anyone found to be misusing the payment mechanisms to do so will have their membership terminated permanently.
 
 # About the datapackage.json
 Data is stored as CSV. This gives the following benefits:
