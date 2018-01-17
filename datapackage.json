@@ -16,18 +16,6 @@
   ],
   "sources": [
     {
-      "path": "https://cdn.rawgit.com/matt40k/aw/2b0355bbf5701eb83db8e6503b01e0ee70bfd438/export.csv",
-      "title": "Tue Nov 21 08:25:26 2017 +0000"
-    },
-    {
-      "path": "https://cdn.rawgit.com/matt40k/aw/39ef8c08bd5f0da5528173d25c5f40f361776c3c/export.csv",
-      "title": "Tue Nov 21 04:28:58 2017 +0000"
-    },
-    {
-      "path": "https://cdn.rawgit.com/matt40k/aw/adf254465c1e248b834ba4bda81d32edd62ca7f2/export.csv",
-      "title": "Tue Nov 21 00:26:39 2017 +0000"
-    },
-    {
       "path": "https://cdn.rawgit.com/matt40k/aw/30dc3b3b5b59f187779f85cb53ae1e1c466c5132/export.csv",
       "title": "Mon Nov 20 20:24:29 2017 +0000"
     },
@@ -738,50 +726,6 @@
     {
       "path": "https://cdn.rawgit.com/matt40k/aw/f5298372c67e254e24b9997fa6c90bddb26e2ea5/export.csv",
       "title": "Sun Oct 22 04:23:03 2017 +0100"
-    },
-    {
-      "path": "https://cdn.rawgit.com/matt40k/aw/2f82cdcdd7be2ccf93eb1baa545378f958e8ed38/export.csv",
-      "title": "Sat Oct 21 20:22:00 2017 +0100"
-    },
-    {
-      "path": "https://cdn.rawgit.com/matt40k/aw/0e3ff8db65e58953edd54297641fbfa972280ce5/export.csv",
-      "title": "Sat Oct 21 16:22:57 2017 +0100"
-    },
-    {
-      "path": "https://cdn.rawgit.com/matt40k/aw/ee4af8cfb4d6b661330b36dff98e3e25a8dcb955/export.csv",
-      "title": "Sat Oct 21 15:40:13 2017 +0100"
-    },
-    {
-      "path": "https://cdn.rawgit.com/matt40k/aw/92b9b0ed4538e87f69664a5c92bae5ca87e44573/export.csv",
-      "title": "Sat Oct 21 08:24:06 2017 +0100"
-    },
-    {
-      "path": "https://cdn.rawgit.com/matt40k/aw/bae2d457280eb6b15c09d13b64f5487350fd29eb/export.csv",
-      "title": "Sat Oct 21 04:24:43 2017 +0100"
-    },
-    {
-      "path": "https://cdn.rawgit.com/matt40k/aw/0c8ba70e68a0e9454365f379a595a87b1f91f448/export.csv",
-      "title": "Sat Oct 21 00:23:40 2017 +0100"
-    },
-    {
-      "path": "https://cdn.rawgit.com/matt40k/aw/70cf5ad80ff993025dd90c2a7c1f4db60a4172f5/export.csv",
-      "title": "Fri Oct 20 22:40:27 2017 +0100"
-    },
-    {
-      "path": "https://cdn.rawgit.com/matt40k/aw/3b89712faaeea9d3bfbe86fbaa49081727428e17/export.csv",
-      "title": "Fri Oct 20 22:24:18 2017 +0100"
-    },
-    {
-      "path": "https://cdn.rawgit.com/matt40k/aw/bfba6d4bf0d334d32a6a5fd7c03f268893078904/export.csv",
-      "title": "Thu Oct 19 21:35:54 2017 +0100"
-    },
-    {
-      "path": "https://cdn.rawgit.com/matt40k/aw/e7b590367f0b16c409469f8aa44c34c1c1dc81fc/export.csv",
-      "title": "Thu Oct 19 19:49:24 2017 +0000"
-    },
-    {
-      "path": "https://cdn.rawgit.com/matt40k/aw/4b493b960726bb8441e155b3d502e4d95c04c232/export.csv",
-      "title": "Thu Oct 19 18:45:50 2017 +0000"
     }
   ],
   "contributors": [
